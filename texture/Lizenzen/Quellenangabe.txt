@@ -13,3 +13,7 @@ wood_by_asierromero-Freepik : http://www.freepik.com/free-photo/wooden-texture_9
 footprints_by_freepik : http://www.freepik.com/free-vector/footprints-shadows-of-animals-and-human_723477.htm
 
 pattern_by_vilmosvarga-Freepik : http://www.freepik.com/free-vector/abstract-geometric-pattern_1095036.htm
+
+stone_ground : http://absfreepic.com/absolutely_free_photos/small_photos/grey-stone-ground-5184x3456_88349.jpg
+
+stone_tex : http://www.tonytextures.de/free-texture-gallery/Stein%20-%20Felsen/Stein-Felsen_Textur_A_PA186211.JPG
