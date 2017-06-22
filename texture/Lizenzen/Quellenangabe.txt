@@ -17,3 +17,5 @@ pattern_by_vilmosvarga-Freepik : http://www.freepik.com/free-vector/abstract-geo
 stone_ground : http://absfreepic.com/absolutely_free_photos/small_photos/grey-stone-ground-5184x3456_88349.jpg
 
 stone_tex : http://www.tonytextures.de/free-texture-gallery/Stein%20-%20Felsen/Stein-Felsen_Textur_A_PA186211.JPG
+
+stone_bright_tex : http://spiralgraphics.biz/packs/stone_bright/index.htm?29
